@@ -1,0 +1,46 @@
+.doctors {
+
+    padding: 30px;
+
+}
+
+
+.doctors h1 {
+
+    margin-bottom: 25px;
+
+}
+
+
+table {
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+
+}
+
+
+th {
+
+    background: #1e293b;
+    color: white;
+    padding: 15px;
+
+}
+
+
+td {
+
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+
+}
+
+
+tr:hover {
+
+    background: #f1f5f9;
+
+}
