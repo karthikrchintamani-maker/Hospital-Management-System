@@ -7,7 +7,7 @@ print("Medical Records file loaded")
 
 
 router = APIRouter(
-    prefix="/medical-records",
+    prefix="/medical_records",
     tags=["Medical Records"]
 )
 
